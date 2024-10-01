@@ -7,5 +7,5 @@ print("<출력>")
 print(f"이름: {name}")
 print(f"학번: {number}")
 print(f'학과: {major}')
-print(f'학교: {school}')
+print(f'학교: {school}' ) 
 
