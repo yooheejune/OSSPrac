@@ -1,4 +1,2 @@
 # OSSPrac
-B
-C
-D
+A
